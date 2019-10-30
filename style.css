@@ -1,9 +1,9 @@
 
 .container{
-	max-width: 100%;
-	margin: 0px auto;
-	overflow: hidden;
-	padding: 0px;
+	max-width: 100%;// define the maxium width
+	margin: 0px auto; // create space around  element
+	overflow: hidden; // controls what happen to next
+	padding: 0px; //generate spce around the element
 	background-color: white;
 }
 .container{
@@ -209,8 +209,8 @@ body {margin:0;font-family:Arial}
 }
 
 .topnav a:hover {
-    background-color: white;
-    color: black;
+    background-color: red;
+    color: blue;
 }
 
 .topnav a.active {
